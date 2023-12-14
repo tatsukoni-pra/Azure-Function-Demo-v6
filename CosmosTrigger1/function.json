@@ -7,7 +7,7 @@
       "leaseCollectionName": "leases",
       "connectionStringSetting": "cosmosdbtatsukonitestv2_DOCUMENTDB",
       "databaseName": "TatsukoniTest2",
-      "collectionName": "env_collectionName",
+      "collectionName": "tatsukoni-test-2",
       "createLeaseCollectionIfNotExists": true
     }
   ],
